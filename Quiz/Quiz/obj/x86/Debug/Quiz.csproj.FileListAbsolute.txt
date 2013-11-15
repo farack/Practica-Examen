@@ -1,0 +1,6 @@
+C:\Users\jmanu_000\Documents\SharpDevelop Projects\Quiz\Quiz\bin\Debug\Quiz.exe.config
+C:\Users\jmanu_000\Documents\SharpDevelop Projects\Quiz\Quiz\bin\Debug\Quiz.exe
+C:\Users\jmanu_000\Documents\SharpDevelop Projects\Quiz\Quiz\bin\Debug\Quiz.pdb
+C:\Users\jmanu_000\Documents\SharpDevelop Projects\Quiz\Quiz\obj\x86\Debug\Quiz.csprojResolveAssemblyReference.cache
+C:\Users\jmanu_000\Documents\SharpDevelop Projects\Quiz\Quiz\obj\x86\Debug\Quiz.exe
+C:\Users\jmanu_000\Documents\SharpDevelop Projects\Quiz\Quiz\obj\x86\Debug\Quiz.pdb
